@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="image">image</string>
+    <string name="bersyte">bersyte</string>
+    <string name="add_fragment_title">Add Item</string>
+    <string name="dialog_alert_title">Attention</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="edit_fragment_title">Edit Item</string>
+</resources>
